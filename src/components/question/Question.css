@@ -1,0 +1,19 @@
+.radio {
+  display: flex;
+  justify-content: start;
+}
+
+.radio .radio-group {
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.radio .radio-group label {
+  font-weight: 500;
+  padding-left: 4px;
+}
+
+h3 {
+  font-style: italic;
+}

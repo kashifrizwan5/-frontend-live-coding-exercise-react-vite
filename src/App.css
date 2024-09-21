@@ -1,0 +1,10 @@
+.main-wrapper {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+
+.main-wrapper .question-wrapper {
+  margin-right: 2rem;
+}
